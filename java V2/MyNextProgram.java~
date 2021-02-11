@@ -1,0 +1,7 @@
+string derek
+string 14
+public class MyNextProgram{
+  public static void main(String[] args) {
+    System.out.println("My name is" + "derek" + "I  am" "14" "years old" + "and I love St.Mary's");
+  }
+}
